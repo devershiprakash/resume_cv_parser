@@ -12,3 +12,6 @@
 ### 6. Change the directory path to the root dir of the resumes in your system
 
 ### 7. Run using the command, `python <python_file_name.py>`
+
+
+## Output: An excel file with the parsed data from resume(s) 

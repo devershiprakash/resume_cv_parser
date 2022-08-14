@@ -1,11 +1,11 @@
 # Multiple Resume Parsing
 
-## 1. Install Python, Check version using python --version
+## 1. Install Python, Check version using `python --version`
 
-## 2. Instal virtualenv, check version using virtualenv --version
+## 2. Instal virtualenv, check version using `virtualenv --version`
 
 ## 3. Create a vitual environment, `virtualenv <venv_name>`
-## 4. Activate virtual env, `<venv_name>\Scripts\activate
+## 4. Activate virtual env, `<venv_name>\Scripts\activate`
 
 ## 5. Install dependencies, `pip install -r requirements.txt`
 
